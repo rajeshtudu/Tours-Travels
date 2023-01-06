@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Tours-Travels/static/css/main.2550f7d2.css",
+    "main.js": "/Tours-Travels/static/js/main.654166bc.js",
+    "static/media/travel.jpg": "/Tours-Travels/static/media/travel.04982d81d3d8d14ece22.jpg",
+    "static/media/about-2.jpg": "/Tours-Travels/static/media/about-2.d49933562e5da56325ed.jpg",
+    "static/media/about-1.jpg": "/Tours-Travels/static/media/about-1.e066481a8851d5858079.jpg",
+    "static/media/hero-bg.jpg": "/Tours-Travels/static/media/hero-bg.635c09d160b56c52d5b7.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Tours-Travels/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/signup-banner.jpg": "/Tours-Travels/static/media/signup-banner.a86401c085d833772691.jpg",
+    "static/media/country-01.jpg": "/Tours-Travels/static/media/country-01.2b3ceb87f5c053f618bd.jpg",
+    "static/media/testimonials-bg.jpg": "/Tours-Travels/static/media/testimonials-bg.b5a6189eb5ae7a6d81aa.jpg",
+    "static/media/country-03.jpg": "/Tours-Travels/static/media/country-03.ebd1c0bf1410a90a5676.jpg",
+    "static/media/fontawesome-webfont.eot": "/Tours-Travels/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Tours-Travels/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/country-02.jpg": "/Tours-Travels/static/media/country-02.189c7b7221b4f8ade753.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Tours-Travels/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Tours-Travels/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/home-about.jpg": "/Tours-Travels/static/media/home-about.3796db7de7a183028ced.jpg",
+    "static/media/deals-02.jpg": "/Tours-Travels/static/media/deals-02.a1f5398b3c6babd1c61d.jpg",
+    "static/media/deals-01.jpg": "/Tours-Travels/static/media/deals-01.f88592a39a7915328131.jpg",
+    "static/media/offers-03.jpg": "/Tours-Travels/static/media/offers-03.53a53588fdad4b682bd6.jpg",
+    "static/media/offers-02.jpg": "/Tours-Travels/static/media/offers-02.2f20ae554b0825b7c605.jpg",
+    "static/media/deals-04.jpg": "/Tours-Travels/static/media/deals-04.a7023843d4b1088a2b57.jpg",
+    "static/media/deals-03.jpg": "/Tours-Travels/static/media/deals-03.56ba0af4c3bf516f413f.jpg",
+    "static/media/offers-01.jpg": "/Tours-Travels/static/media/offers-01.1a612eaa14d16bbc4b87.jpg",
+    "index.html": "/Tours-Travels/index.html",
+    "main.2550f7d2.css.map": "/Tours-Travels/static/css/main.2550f7d2.css.map",
+    "main.654166bc.js.map": "/Tours-Travels/static/js/main.654166bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2550f7d2.css",
+    "static/js/main.654166bc.js"
+  ]
+}
