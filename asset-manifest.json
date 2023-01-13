@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tours-Travels/static/css/main.d61e5886.css",
-    "main.js": "/Tours-Travels/static/js/main.a729e2f3.js",
+    "main.js": "/Tours-Travels/static/js/main.aa6a1faf.js",
     "static/media/travel.jpg": "/Tours-Travels/static/media/travel.04982d81d3d8d14ece22.jpg",
     "static/media/about-2.jpg": "/Tours-Travels/static/media/about-2.d49933562e5da56325ed.jpg",
     "static/media/about-1.jpg": "/Tours-Travels/static/media/about-1.e066481a8851d5858079.jpg",
@@ -32,10 +32,10 @@
     "static/media/offers-01.jpg": "/Tours-Travels/static/media/offers-01.1a612eaa14d16bbc4b87.jpg",
     "index.html": "/Tours-Travels/index.html",
     "main.d61e5886.css.map": "/Tours-Travels/static/css/main.d61e5886.css.map",
-    "main.a729e2f3.js.map": "/Tours-Travels/static/js/main.a729e2f3.js.map"
+    "main.aa6a1faf.js.map": "/Tours-Travels/static/js/main.aa6a1faf.js.map"
   },
   "entrypoints": [
     "static/css/main.d61e5886.css",
-    "static/js/main.a729e2f3.js"
+    "static/js/main.aa6a1faf.js"
   ]
 }
